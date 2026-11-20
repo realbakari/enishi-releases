@@ -5,10 +5,10 @@
         <item>
             <title>1.0</title>
             <pubDate>Thu, 19 Nov 2026 14:22:22 +1000</pubDate>
-            <sparkle:version>202611190418</sparkle:version>
+            <sparkle:version>202611200631</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.zip" length="14495634" type="application/octet-stream" sparkle:edSignature="1XaoOp3Zjw09Osq1FaInCLeA9vHErzGM0ut/EnACpXdAyEExEsIAERKvg/OmdBJTplRomUA+dqoyim18NBevAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.zip" length="16187858" type="application/octet-stream" sparkle:edSignature="WiRqYNR+mMM31WLsvnfJYM7F2wzmSO8HHtckqyqWBJiJaWLjLm9UbQ4mhfE/HmHkrIW+iybQsqm4MViMr6eSCQ=="/>
         </item>
     </channel>
 </rss>
