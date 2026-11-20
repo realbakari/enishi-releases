@@ -3,6 +3,32 @@
     <channel>
         <title>Enishi</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 20 Nov 2026 21:58:13 +1000</pubDate>
+            <sparkle:version>202611201151</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>Places suggest themselves from Apple Maps as you type.</li>
+  <li>Your calendar shows today&#x27;s meetings, with a Join button for video calls.</li>
+  <li>Pin people and pages, then open them with ⌃⌘1 to ⌃⌘9.</li>
+  <li>Press ⌘J for actions on whatever is open.</li>
+  <li>Reading View (⇧⌘R) and a choice of page widths.</li>
+  <li>Templates fill in the date, the person and what&#x27;s on your clipboard.</li>
+  <li>Settings has search, and a Sync screen shows what&#x27;s in your notebook.</li>
+  <li>Shortcuts that work from any app, and Open at login.</li>
+  <li>Your notebook syncs through iCloud between your Mac and iPhone.</li>
+  <li>The notebook opens instantly, even when it&#x27;s large.</li>
+  <li>Fixes: notes that seemed to vanish after reopening, a lock that didn&#x27;t stay on, voice notes on photos being replaced, and the Mac using a full CPU core while idle.</li>
+  <li>The Getting Started guide covers everything new and has a full Mac manual.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.1.zip" length="16700984" type="application/octet-stream" sparkle:edSignature="BORAxDwVJlPGt3GWTYioVEu3IzL+T+9j6yt9svmZHeBnEnu0S98FFeywhKrKQsMn+YSxZGNN0YSIbTDPQYcRCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611201151-202611200631.delta" sparkle:deltaFrom="202611200631" length="2585590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fgMj3yJSFq3XBGMsdD2nf4ZMAkgKkB1qMENhDjjaN/a5E7RZTspI1+9l18/9stFR+/KB5WPTsSbfWISBEGKEDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 19 Nov 2026 14:22:22 +1000</pubDate>
             <sparkle:version>202611200631</sparkle:version>
