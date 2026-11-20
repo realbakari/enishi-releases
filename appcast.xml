@@ -3,6 +3,31 @@
     <channel>
         <title>Enishi</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sat, 21 Nov 2026 09:37:56 +1000</pubDate>
+            <sparkle:version>202611202332</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>Steadier and faster: dozens of fixes from a full stability review, for crashes, freezes and slowdowns.</li>
+  <li>When the same page is edited on two devices at once, every line from both is kept.</li>
+  <li>Saving a page iCloud is still downloading no longer pauses the app; your edit goes in when the page arrives.</li>
+  <li>Typing, the Log sentence and long pages are quicker, and search indexing and widgets update in the background.</li>
+  <li>Opening a page with a photo in the middle no longer rewrites it.</li>
+  <li>Reading View and the editor treat code as code, not as people or links.</li>
+  <li>While private people are locked, they stay out of the Timeline filter, duplicates and the Sync counts.</li>
+  <li>Dates read correctly on devices set to the Japanese or another non-Gregorian calendar.</li>
+  <li>Export builds its preview once, so choosing a style is quick.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.3.zip" length="16922618" type="application/octet-stream" sparkle:edSignature="9/Qn9J5hZL225lMLxIA9MkgAJLz3MfY4TLL+U7aGzvARV0XzJPTwVpoLq7o0zx8RVd8kkkwKTsO76yS4xjyvCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611202332-202611201508.delta" sparkle:deltaFrom="202611201508" length="2126210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mcb1FMhmIex7v8DKM3beHwEcL3M3ktBEURequMojV/eIVEFTAu/OU1YRn2xbH9C+HwcArZ9+rnl6JS1TkdRgAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611202332-202611201151.delta" sparkle:deltaFrom="202611201151" length="2237162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fhb1gIkpWasodpo4ICIo5zSmzFHAvKt+MhS5TffU51Cfl2QJAxzR0d++iQKkaB0eygany8VgNcUlpkjOBp1wCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611202332-202611200631.delta" sparkle:deltaFrom="202611200631" length="3247474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HcUdYMlGmVBtoWIJkpisnH5RAWzG9eJOGXHCe7MFVZ2wCBl3NVirWhp1+SL0Zz7EoTLhGZOfV8L0izRUgveBBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sat, 21 Nov 2026 01:14:24 +1000</pubDate>
             <sparkle:version>202611201508</sparkle:version>
@@ -47,14 +72,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611201151-202611200631.delta" sparkle:deltaFrom="202611200631" length="2585590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fgMj3yJSFq3XBGMsdD2nf4ZMAkgKkB1qMENhDjjaN/a5E7RZTspI1+9l18/9stFR+/KB5WPTsSbfWISBEGKEDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 19 Nov 2026 14:22:22 +1000</pubDate>
-            <sparkle:version>202611200631</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.zip" length="16187858" type="application/octet-stream" sparkle:edSignature="WiRqYNR+mMM31WLsvnfJYM7F2wzmSO8HHtckqyqWBJiJaWLjLm9UbQ4mhfE/HmHkrIW+iybQsqm4MViMr6eSCQ=="/>
         </item>
     </channel>
 </rss>
