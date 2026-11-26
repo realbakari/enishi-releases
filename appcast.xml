@@ -3,6 +3,28 @@
     <channel>
         <title>Enishi</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Thu, 26 Nov 2026 22:06:26 +1000</pubDate>
+            <sparkle:version>202611261201</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>See people as a table, a board or a gallery of faces.</li>
+  <li>Add your own fields, like Kids or Gift ideas, and several emails and phone numbers.</li>
+  <li>Callouts and embedded pages, and open an Obsidian vault as a notebook.</li>
+  <li>Light, Dark or System appearance.</li>
+  <li>Fixes for iCloud setup, meetings and privacy.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.4.zip" length="17516989" type="application/octet-stream" sparkle:edSignature="bLIiMKnSCGCu8fY6DDmm5KBOokdM443i+1kyNTC+fAi8XUjMqeyMi9mvQXPBPuUhj5ON5KeDYFKWZtXXpfesAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611261201-202611202332.delta" sparkle:deltaFrom="202611202332" length="2617126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S7NMbl7od/tIqtn6Ud4epKomOIN+rNdCxUUzUcUBlbc+Dn76ABK3iY/jVR2cmrvUbHMU2V2/M2jIaFWZ4YV4DA=="/>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611261201-202611201508.delta" sparkle:deltaFrom="202611201508" length="3221814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wtQc1j2VJaupB0UsYO9tgFIauu83Tsr6m8sIvDEqR8cSh5WJczSv+0upb/8j/9I7nzq17zsyxHnFBvYGLFHGCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611261201-202611201151.delta" sparkle:deltaFrom="202611201151" length="3280334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W31KGZ6Of/PbGkHrim+XyRcgzTPMFNMkZ2ihqJDDuZaHMZeuO45e2hVuaLKH3aqo1l6LAwhX/T9OS5Uuu7ZCAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611261201-202611200631.delta" sparkle:deltaFrom="202611200631" length="4033270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6syGIFn8fg3LEWY1VDtKoWezqHWhM72aD7M+C5ZHxSJfKtZP5eYdgW9tLWwtnOxU0avEo7qSyN9otTDJF+nQAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sat, 21 Nov 2026 09:37:56 +1000</pubDate>
             <sparkle:version>202611202332</sparkle:version>
@@ -45,32 +67,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611201508-202611201151.delta" sparkle:deltaFrom="202611201151" length="1246914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="87eF1RWQZznCg5bf1dGGXcsueacj57dW0F1l33US9SvoXOxlK+Ja1FY2RXNmw5mVj1W8RaOARa54Pa8hcxVoBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611201508-202611200631.delta" sparkle:deltaFrom="202611200631" length="2697910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TA9HAMEybqKqmMTVlT0i1ECMHTPL+sejAQhbkd3wjU9zBs5yc7jnNXQo0EIgdocO4oyvazZbnFXSt6UtGXYHDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Fri, 20 Nov 2026 21:58:13 +1000</pubDate>
-            <sparkle:version>202611201151</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li>Places suggest themselves from Apple Maps as you type.</li>
-  <li>Your calendar shows today&#x27;s meetings, with a Join button for video calls.</li>
-  <li>Pin people and pages, then open them with ⌃⌘1 to ⌃⌘9.</li>
-  <li>Press ⌘J for actions on whatever is open.</li>
-  <li>Reading View (⇧⌘R) and a choice of page widths.</li>
-  <li>Templates fill in the date, the person and what&#x27;s on your clipboard.</li>
-  <li>Settings has search, and a Sync screen shows what&#x27;s in your notebook.</li>
-  <li>Shortcuts that work from any app, and Open at login.</li>
-  <li>Your notebook syncs through iCloud between your Mac and iPhone.</li>
-  <li>The notebook opens instantly, even when it&#x27;s large.</li>
-  <li>Fixes: notes that seemed to vanish after reopening, a lock that didn&#x27;t stay on, voice notes on photos being replaced, and the Mac using a full CPU core while idle.</li>
-  <li>The Getting Started guide covers everything new and has a full Mac manual.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi-1.0.1.zip" length="16700984" type="application/octet-stream" sparkle:edSignature="BORAxDwVJlPGt3GWTYioVEu3IzL+T+9j6yt9svmZHeBnEnu0S98FFeywhKrKQsMn+YSxZGNN0YSIbTDPQYcRCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/realbakari/enishi-releases/main/downloads/Enishi202611201151-202611200631.delta" sparkle:deltaFrom="202611200631" length="2585590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fgMj3yJSFq3XBGMsdD2nf4ZMAkgKkB1qMENhDjjaN/a5E7RZTspI1+9l18/9stFR+/KB5WPTsSbfWISBEGKEDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
